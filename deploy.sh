@@ -1,17 +1,15 @@
-# #!/usr/bin/env sh
-
-# # abort on errors
+#!/usr/bin/env sh
+# abort on errors
 set -e
-
-# # build
+# build
 npm run build
-
-git add .
+# navigate into the build output directory
+cd dist
+# if you are deploying to a custom domain
+# echo 'www.example.com' > CNAME
+git init
+git add -A
 git commit -m 'deploy'
+git push -f https://github.com/AchahbarIlias/portfolio-v2.git master:gh-pages
 
-
-
-# # if you are deploying to https://<USERNAME>.github.io/<REPO>
-git push
-
-# cd -
+cd -
