@@ -77,7 +77,7 @@
         </span>
         <span class="flex flex-col p-4 text-black bg-white h-52 rounded-b-md">
           <p class="text-xl">Portfolio</p>
-          <div class="flex flex-wrap flex-row items-center md:space-x-0 space-x-2 mt-2">
+          <div class="flex flex-wrap flex-row items-center md:space-x-1 space-x-2 mt-2">
             <img class="h-full w-8" src="../assets/javascript.svg" alt="">
             <img class="h-full w-8" src="../assets/tailwind.svg" alt="">
             <img class="h-full w-8" src="../assets/vue.svg" alt="">
@@ -87,13 +87,13 @@
         </span>
         </card>
 
-        <card class="w-full mx-auto h-full lg:col-span-2 md:col-span-3">
+        <card class="w-full mx-auto h-full ">
         <span class="flex items-center bg-purple-300 w-full h-52 rounded-t-md">
           <p class="mx-auto">Digid</p>
         </span>
         <span class="flex flex-col p-4 text-black bg-white h-52 rounded-b-md">
           <p class="text-xl">Electronic File's App</p>
-          <div class="flex lg:flex-nowrap flex-wrap flex-row items-center space-x-2 mt-2">
+          <div class="flex flex-wrap flex-row items-center md:space-x-1 space-x-2 mt-2">
             <img class="h-full w-8" src="../assets/flutter.svg" alt="">
             <img class="h-full w-8" src="../assets/dart.svg" alt="">
             <img class="h-full w-8" src="../assets/node.svg" alt="">
