@@ -11,8 +11,14 @@
             <img class="h-auto lg:w-20 w-14 mx-auto" src="../assets/docker.svg" alt="">
         </div>
     </div>
+    <div class="programming">
     <img class="h-auto w-96 mx-auto " src="../assets/control.svg" alt="">
+    </div>
 </div>
 </div>
           
 </template>
+
+<style scoped>
+
+</style>

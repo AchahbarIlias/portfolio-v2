@@ -1,6 +1,6 @@
 <template>
 <div class="container mx-auto px-8 md:px-14 lg:px-24 w-full mt-20">
-<div class="grid lg:grid-cols-4 sm:grid-cols-3 grid-cols-1 text-white gap-2">
+<div class="grid lg:grid-cols-4 sm:grid-cols-3 grid-cols-1 text-white gap-2 animate-moveintotop">
 
         <card class="w-full mx-auto h-full">
             <span class="flex items-center bg-purple-300 w-full h-52 rounded-t-md">

@@ -26,6 +26,8 @@ export default {
 }
 body {
   background-color: #0D1117;
-  @apply pb-12
+  @apply pb-12;
+  /* background-image: url(./assets/background.png);
+  background-repeat: no-repeat; */
 }
 </style>
