@@ -2,13 +2,14 @@
 <div class="container mx-auto px-8 md:px-14 lg:px-24 w-full mt-20">
 <div class="grid lg:grid-cols-4 sm:grid-cols-3 grid-cols-1 text-white gap-2 animate-moveintotop">
 
-        <card class="w-full mx-auto h-full">
-            <span class="flex items-center bg-purple-300 w-full h-52 rounded-t-md">
+        <card class="w-full mx-auto h-full shadow-2xl">
+            <span class="flex items-center bg-secondary w-full h-52 rounded-t-sm">
           <p class="mx-auto">Bones Hardware</p>
             </span>
-            <div class="flex flex-col p-4 text-black bg-white h-52 rounded-b-md">
+            <div class="flex flex-col p-4 bg-secondary h-52 text-green-400 rounded-b-sm">
           <p class="text-xl">Computer Webshop</p>
-          <span class="flex flex-row items-center space-x-2 mt-2">
+          <p class="text-gray-300">Big project I made with a friend for our final year in middle school.</p>
+          <span class="flex flex-row items-center space-x-2 w-full flex-wrap">
             <img class="h-full w-8" src="../assets/php.svg" alt="">
             <img class="h-full w-8" src="../assets/html.svg" alt="">
             <img class="h-full w-8" src="../assets/css.svg" alt="">
@@ -18,10 +19,10 @@
         </card>
 
                 <card class="w-full mx-auto h-full">
-        <span class="flex items-center bg-purple-300 w-full h-52 rounded-t-md">
+        <span class="flex items-center bg-secondary w-full h-52 rounded-t-sm">
           <p class="mx-auto">Payment System</p>
         </span>
-        <span class="flex flex-col p-4 text-black bg-white h-52 rounded-b-md">
+        <span class="flex flex-col p-4 bg-secondary text-green-400 h-52 rounded-b-sm">
           <p class="text-xl">Payment System</p>
           <div class="flex flex-row items-center space-x-2 mt-2">
             <img class="h-full w-8" src="../assets/java.svg" alt="">
@@ -31,10 +32,10 @@
 
         
                 <card class="w-full mx-auto h-full">
-        <span class="flex items-center bg-purple-300 w-full h-52 rounded-t-md">
+        <span class="flex items-center bg-secondary w-full h-52 rounded-t-sm">
           <p class="mx-auto">Gomoku</p>
         </span>
-        <span class="flex flex-col p-4 text-black bg-white h-52 rounded-b-md">
+        <span class="flex flex-col p-4 bg-secondary text-green-400 h-52 rounded-b-sm">
           <p class="text-xl">Gomoku Game</p>
           <div class="flex flex-row items-center space-x-2 mt-2">
             <img class="h-full w-8" src="../assets/csharp.svg" alt="">
@@ -43,10 +44,10 @@
         </card>
 
                 <card class="w-full mx-auto h-full">
-        <span class="flex items-center bg-purple-300 w-full h-52 rounded-t-md">
+        <span class="flex items-center bg-secondary h-52 rounded-t-sm">
           <p class="mx-auto">J&M United</p>
         </span>
-        <span class="flex flex-col p-4 text-black bg-white h-52 rounded-b-md">
+        <span class="flex flex-col p-4 bg-secondary text-green-400 h-52 rounded-b-sm">
           <p class="text-xl">Animal Shelter Webshop</p>
           <div class="flex lg:flex-nowrap flex-wrap flex-row items-center space-x-2 mt-2">
             <img class="h-full w-8" src="../assets/elixir.svg" alt="">
@@ -58,10 +59,10 @@
         </card>
 
                 <card class="w-full mx-auto h-full">
-        <span class="flex items-center bg-purple-300 w-full h-52 rounded-t-md">
+        <span class="flex items-center bg-secondary w-full h-52 rounded-t-sm">
           <p class="mx-auto">Discord Picture</p>
         </span>
-        <span class="flex flex-col p-4 text-black bg-white h-52 rounded-b-md">
+        <span class="flex flex-col p-4 bg-secondary text-green-400 h-52 rounded-b-sm">
           <p class="text-xl">Discord Bot</p>
           <div class="flex lg:flex-nowrap flex-wrap flex-row items-center space-x-2 mt-2">
             <img class="h-full w-8" src="../assets/javascript.svg" alt="">
@@ -72,10 +73,10 @@
         </card>
 
         <card class="w-full mx-auto h-full">
-        <span class="flex items-center bg-purple-300 w-full h-52 rounded-t-md">
+        <span class="flex items-center bg-secondary w-full h-52 rounded-t-sm">
           <p class="mx-auto">You're using it right now</p>
         </span>
-        <span class="flex flex-col p-4 text-black bg-white h-52 rounded-b-md">
+        <span class="flex flex-col p-4 bg-secondary text-green-400 h-52 rounded-b-sm">
           <p class="text-xl">Portfolio</p>
           <div class="flex flex-wrap flex-row items-center md:space-x-1 space-x-2 mt-2">
             <img class="h-full w-8" src="../assets/javascript.svg" alt="">
@@ -88,10 +89,10 @@
         </card>
 
         <card class="w-full mx-auto h-full ">
-        <span class="flex items-center bg-purple-300 w-full h-52 rounded-t-md">
+        <span class="flex items-center bg-secondary w-full h-52 rounded-t-sm">
           <p class="mx-auto">Digid</p>
         </span>
-        <span class="flex flex-col p-4 text-black bg-white h-52 rounded-b-md">
+        <span class="flex flex-col p-4 bg-secondary text-green-400 h-52 rounded-b-sm">
           <p class="text-xl">Electronic File's App</p>
           <div class="flex flex-wrap flex-row items-center md:space-x-1 space-x-2 mt-2">
             <img class="h-full w-8" src="../assets/flutter.svg" alt="">

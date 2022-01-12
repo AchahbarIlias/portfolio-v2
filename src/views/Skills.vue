@@ -2,10 +2,12 @@
   <div class="skills">
     <div class="">
       <SkillsHero></SkillsHero>
+      <div class="animate-moveintotop">
       <SkillsApplication></SkillsApplication>
       <SkillsUtils></SkillsUtils>
       <SkillsDevOps></SkillsDevOps>
       <SkillsBusiness></SkillsBusiness>
+      </div>
     </div>
   </div>
 </template>

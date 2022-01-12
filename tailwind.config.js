@@ -4,8 +4,8 @@ module.exports = {
   theme: {
     backgroundColor: theme => ({
       ...theme('colors'),
-      'background': '#87a9ff',
-      'secondary': '#ffed4a',
+      'background': '#0A192F',
+      'secondary': '#112240',
       'danger': '#e3342f',
      }),
 
@@ -45,7 +45,12 @@ module.exports = {
           '100%': { transform: 'translate(0%)' },
         },
       }
+    },
+    fontFamily: {
+      // add poppins font
+      'poppins': 'Poppins, sans-serif',
     }
+
   },
   variants: {
     extend: {},
